@@ -1,3 +1,6 @@
+# Disclaimer
+None of this code is mine, It is just a great resource to learn from and I want to keep it on my radar, hence the fork.
+
 # GPGPU Programming with CUDA
 This repository contains all code from the YouTube series "CUDA Crash Course (v3)" by CoffeeBeforeArch.
 
